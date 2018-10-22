@@ -1,28 +1,28 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-8ffa20c2268618c48339.js",
-      "component---src-pages-index-js-8ffa20c2268618c48339.js.map"
+      "component---src-pages-index-js-cf1b2cb7ef5e5c1c2e5c.js",
+      "component---src-pages-index-js-cf1b2cb7ef5e5c1c2e5c.js.map"
     ],
     "component---src-containers-portifolio-index-js": [
-      "component---src-containers-portifolio-index-js-115bea4665d2edf78f07.js",
-      "component---src-containers-portifolio-index-js-115bea4665d2edf78f07.js.map"
+      "component---src-containers-portifolio-index-js-86433b1bf0bce98f363e.js",
+      "component---src-containers-portifolio-index-js-86433b1bf0bce98f363e.js.map"
     ],
     "path---": [
       "path----e8bb0d50bc22aec394c4.js",
       "path----e8bb0d50bc22aec394c4.js.map"
     ],
     "component---src-pages-contact-js": [
-      "component---src-pages-contact-js-37cf0b3e1a3befc745c0.js",
-      "component---src-pages-contact-js-37cf0b3e1a3befc745c0.js.map"
+      "component---src-pages-contact-js-670e2b331a055901fef7.js",
+      "component---src-pages-contact-js-670e2b331a055901fef7.js.map"
     ],
     "path---portifolio-2": [
       "path---portifolio-2-3d5753229766189334d3.js",
       "path---portifolio-2-3d5753229766189334d3.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6c0f3403420115a4e229.js",
-      "component---src-layouts-index-js-6c0f3403420115a4e229.js.map"
+      "component---src-layouts-index-js-fff61c7f9f032bc8c48d.js",
+      "component---src-layouts-index-js-fff61c7f9f032bc8c48d.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -41,8 +41,8 @@
       "path---portifolio-1-1f05db422a91919df4b2.js.map"
     ],
     "commons": [
-      "commons-2897b34c5e3b2502c583.js",
-      "commons-2897b34c5e3b2502c583.js.map"
+      "commons-77d23bfe56f4e9463d64.js",
+      "commons-77d23bfe56f4e9463d64.js.map"
     ],
     "path---portifolio-3": [
       "path---portifolio-3-acdb5df52bfdd4e714fc.js",
@@ -65,9 +65,9 @@
       "path---portifolio-56d2a375b70175f68e1d.js.map"
     ],
     "app": [
-      "app-dd9a24c566be5e15ee5c.js",
+      "app-4b01867dc4a44e6c6801.js",
       "build-js-styles.css",
-      "app-dd9a24c566be5e15ee5c.js.map",
+      "app-4b01867dc4a44e6c6801.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
